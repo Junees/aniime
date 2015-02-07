@@ -1,7 +1,106 @@
+<head>
+<style>
+
 body {
-	color: #663564
+
+width: 750px;
+font-family: "Neou-Thin";
 
 }
 
-title {
-	color:
+#nav {
+	background-color: #ffffff;
+	font-family: "Neou-Thin";
+	display: inline;
+	padding: 10px;
+	margin: 10px;
+
+
+}
+
+
+h1 {
+
+color:
+
+font-family: "Neou-Thin";
+font-size: 28px;
+text-align: center;
+background-color:rgb(185,179,175);
+color: Black;
+font-weight:200;
+text-decoration:none;
+padding: 20px 0px 10px 0px;
+width: 60%;
+
+}
+p{
+
+	padding: 10px;
+	width: 450px;
+	text-align: justified ;
+	float:left;
+
+
+}
+
+
+h2 {
+font-family: Arial, Veranda, sans-serrif;
+color: rgb(185,179,175) ;}
+
+li, #footer, a {
+display: inline;
+margin-right: 10px;
+font-family: Arial, Veranda, sans-serrif;
+color: grey;}
+
+
+
+li.coming-soon {
+display: none;
+font-family: Arial, Veranda, sans-serrif;
+color: rgb(185,179,175);}
+
+a:link
+{text-decoration:none;}
+
+a:visited
+{text-decoration:none;}
+
+p {
+font-family: Arial, Veranda, sans-serrif;}
+
+@font-face {
+font-family : 'Neou-Thin';
+src: url('fonts/Neou-Thin.ttf');}
+
+h3 {
+font-family: Neou-Thin, Verdana, sans-serrif;}
+
+@font-face {
+font-family : 'Quicksand_Light';
+src: url('fonts/Quicksand_light.otf');}
+
+h4 {
+font-family: Quicksand_light, Arial, sans-serrif;}
+
+@font-face {
+font-family : 'Windsong';
+src: url('fonts/Windsong.ttf');}
+
+h5 {
+font-family: Windsong, Arial, Cursive;}
+
+
+}
+
+</style>
+</head>
+
+
+<!--color: #663564
+width: 90%;
+font-family: Arial, Verdana, sans-serif;
+margin: 0 auto;
+#content {overflow: auto;}-->
